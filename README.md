@@ -115,19 +115,19 @@ plt.ylabel('Errors')
 plt.show()
 ```
 Output:
-Dataset:
+### Dataset:
 
 ![j1](https://github.com/jithendra2004/Experiment-2--Implementation-of-Perceptron/assets/94226297/67e7afac-0af1-4d67-a499-fbb2318211e7)
 
-Scatter plot:
+### Scatter plot:
 
 ![j2](https://github.com/jithendra2004/Experiment-2--Implementation-of-Perceptron/assets/94226297/86dc0b27-e04e-4b2b-95b1-3008799d3abd)
 
-Error plot
+### Error plot
 
 ![j3](https://github.com/jithendra2004/Experiment-2--Implementation-of-Perceptron/assets/94226297/2dbbbca5-09b5-4a7e-8811-435afd0c895c)
 
-Accuracy
+### Accuracy
 
 ![j4](https://github.com/jithendra2004/Experiment-2--Implementation-of-Perceptron/assets/94226297/38b71623-037e-4d46-9ebf-835a408f87f8)
 
